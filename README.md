@@ -1,2 +1,2 @@
 # robot
-Order Book trader in Rust (experimenting with Rust)
+Order Book trading in Rust (experimenting with Rust)
